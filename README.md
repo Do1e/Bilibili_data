@@ -1,3 +1,4 @@
 一个用于获取Bilibili相关数据的python小工程。
 它可以实时监测up主的粉丝数据或者一个视频的播放量等相关数据，并输出在一个Excel表格中。
 在安装python的电脑上点击运行main.py即可。
+同时也为未安装python的电脑提供由pyinstaller打包的exe。
